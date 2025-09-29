@@ -24,7 +24,9 @@ I am a final-year master’s student in cyberspace security at Xidian University
 \* indicates co-first authors.
 
 - **PreferCare: Preference Dataset Copyright Protection in LLM Alignment by Watermark Injection and Verification**
+
 Jian Lou*, **Chenyang Zhang\***, Xiaoyu Zhang, Kai Wu
+
 *CCS 2025*
 
 - **PoisonedEye: Knowledge Poisoning Attack on Retrieval-Augmented Generation based Large Vision-Language Models**
