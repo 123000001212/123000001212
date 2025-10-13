@@ -1,6 +1,6 @@
 ## About Me
 
-I am a final-year master’s student in cyberspace security at Xidian University, advised by Prof. Xiaoyu Zhang. I obtained my bachelor’s degree in cyberspace security at Xidian University in 2023.
+I am a final-year master’s student in cyberspace security at Xidian University, advised by Prof. Xiaoyu Zhang. I obtained my bachelor’s degree at Xidian University in 2023.
 
 ## Research Interests
 
