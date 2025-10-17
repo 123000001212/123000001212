@@ -22,7 +22,7 @@ I am a final-year master’s student in cyberspace security at Xidian University
 \* indicates co-first authors.
 
 - **PreferCare: Preference Dataset Copyright Protection in LLM Alignment by Watermark Injection and Verification**
-  [[accepted](https://www.sigsac.org/ccs/CCS2025/accepted-papers/)]
+  [[accepted](https://www.sigsac.org/ccs/CCS2025/accepted-papers/)]  
   Jian Lou*, **Chenyang Zhang\***, Xiaoyu Zhang, Kai Wu  
   *CCS 2025*
 
