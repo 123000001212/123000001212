@@ -12,7 +12,7 @@ I am a final-year master’s student in cyberspace security at Xidian University
 
 ## News
 
-- 09/2025: I am currently seeking PhD opportunities, feel free to contact me at cyzhang_2 AT stu.xidian.edu.cn
+- 12/2025: Awarded the China National Scholarship for Graduate Students (2025).
 - 08/2025: Our paper on dataset watermarking is accepted to CCS 2025.
 - 05/2025: Our paper on data poisoning attack is accepted to ICML 2025.
 - 09/2024: Our paper on dataset watermarking is accepted to TDSC.
@@ -22,7 +22,7 @@ I am a final-year master’s student in cyberspace security at Xidian University
 \* indicates co-first authors.
 
 - **PreferCare: Preference Dataset Copyright Protection in LLM Alignment by Watermark Injection and Verification**  
-  [[accepted](https://www.sigsac.org/ccs/CCS2025/accepted-papers/)]  
+  [[paper](https://dl.acm.org/doi/10.1145/3719027.3765223)]  
   Jian Lou*, **Chenyang Zhang\***, Xiaoyu Zhang, Kai Wu  
   *CCS 2025*
 
